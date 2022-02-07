@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TRPV1-Receptor
+- 👋 Hi, I’m @Elias Hazboun
 -
 - Current Computer Science student and I have no idea what I want to do with my life.
 - Creating a GitHub account seemed like a good idea to immersify myself into the community.
